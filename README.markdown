@@ -2,7 +2,7 @@
 
 ## What Is It?
 
-The sinatra-compass-html5boilerplate is a template for starting project faster that uses these 3 technologies.
+The sinatra-compass-html5boilerplate is a template for starting project faster.
 
 ## How to use?
 
